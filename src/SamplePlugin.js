@@ -1,7 +1,5 @@
-import React from "react";
 import { FlexPlugin } from "@twilio/flex-plugin";
 
-//import CustomTaskList from './components/CustomTaskList/CustomTaskList';
 import addCallButton from "./addCallButton";
 
 const PLUGIN_NAME = "SamplePlugin";
